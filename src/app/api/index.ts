@@ -8,6 +8,7 @@ import './eCommerce/ProductsData';
 import './email/EmailData';
 import './userprofile/PostData';
 import './userprofile/UsersData';
+import './rest/Login';
 import './kanban/KanbanData';
 import './invoice/invoceLists';
 
