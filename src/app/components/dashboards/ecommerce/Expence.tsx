@@ -63,7 +63,7 @@ const Expence = ({ isLoading }: ExpanceCardProps) => {
       ) : (
         <DashboardCard>
           <>
-            <Typography variant="h4">$10,230</Typography>
+            <Typography variant="h4">₹ 10,230</Typography>
             <Typography variant="subtitle2" color="textSecondary" mb={2}>
               Expense
             </Typography>

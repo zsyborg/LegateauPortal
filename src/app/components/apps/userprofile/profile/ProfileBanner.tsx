@@ -139,14 +139,14 @@ const ProfileBanner = () => {
                 </ProfileImage>
                 <Box mt={1}>
                   <Typography fontWeight={600} variant="h5">
-                    Mathew Anderson
+                    Bhavaneshwar
                   </Typography>
                   <Typography
                     color="textSecondary"
                     variant="h6"
                     fontWeight={400}
                   >
-                    Designer
+                    CEO
                   </Typography>
                 </Box>
               </Box>

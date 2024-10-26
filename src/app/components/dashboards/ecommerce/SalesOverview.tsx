@@ -54,7 +54,7 @@ const SalesOverview = ({ isLoading }: SalesOverviewCardProps) => {
               color: textColor,
               fontSize: '20px',
               fontWeight: '600',
-              label: '$500,458',
+              label: '₹ 500,458',
             },
           },
         },
@@ -115,7 +115,7 @@ const SalesOverview = ({ isLoading }: SalesOverviewCardProps) => {
                   </Box>
                   <Box>
                     <Typography variant="h6" fontWeight="600">
-                      $23,450
+                      ₹ 23,450
                     </Typography>
                     <Typography variant="subtitle2" color="textSecondary">
                       Profit
@@ -142,7 +142,7 @@ const SalesOverview = ({ isLoading }: SalesOverviewCardProps) => {
                   </Box>
                   <Box>
                     <Typography variant="h6" fontWeight="600">
-                      $23,450
+                      ₹ 23,450
                     </Typography>
                     <Typography variant="subtitle2" color="textSecondary">
                       Expance

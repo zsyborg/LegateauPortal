@@ -84,9 +84,9 @@ const YearlySales = ({ isLoading }: YearlysalesCardProps) => {
             title="Yearly Sales"
             subtitle="Total Sales"
             dataLabel1="Salary"
-            dataItem1="$36,358"
+            dataItem1="₹ 36,358"
             dataLabel2="Expance"
-            dataItem2="$5,296"
+            dataItem2="₹ 5,296"
           >
             <>
               <Box height="310px">

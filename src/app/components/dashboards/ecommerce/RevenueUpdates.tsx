@@ -104,7 +104,7 @@ const RevenueUpdates = ({ isLoading }: RevenueupdatesCardProps) => {
                       fontSize="12px"
                       color="textSecondary"
                     >
-                      Footware
+                      Cakes
                     </Typography>
                   </Box>
                 </Stack>
@@ -123,7 +123,7 @@ const RevenueUpdates = ({ isLoading }: RevenueupdatesCardProps) => {
                       fontSize="12px"
                       color="textSecondary"
                     >
-                      Fashionware
+                      Misc
                     </Typography>
                   </Box>
                 </Stack>

@@ -44,7 +44,7 @@ const WelcomeCard = () => {
                   sx={{ width: 40, height: 40 }}
                 />
                 <Typography variant="h5" whiteSpace="nowrap">
-                  Welcome back Mathew Anderson!
+                  Welcome back Bhuvaneshwar!
                 </Typography>
               </Box>
 
@@ -55,7 +55,7 @@ const WelcomeCard = () => {
               >
                 <Box>
                   <Typography variant="h2" whiteSpace="nowrap">
-                    $2,340{" "}
+                    ₹ 2,340{" "}
                     <span>
                       <IconArrowUpRight width={18} color="#39B69A" />
                     </span>

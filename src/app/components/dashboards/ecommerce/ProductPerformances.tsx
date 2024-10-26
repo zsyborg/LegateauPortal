@@ -279,7 +279,7 @@ const ProductPerformances = () => {
                 />
               </TableCell>
               <TableCell>
-                <Typography variant="subtitle2">$3.9k</Typography>
+                <Typography variant="subtitle2">₹ 3.9k</Typography>
               </TableCell>
               <TableCell>
                 <Chart
@@ -324,7 +324,7 @@ const ProductPerformances = () => {
                 />
               </TableCell>
               <TableCell>
-                <Typography variant="subtitle2">$3.5k</Typography>
+                <Typography variant="subtitle2">₹ 3.5k</Typography>
               </TableCell>
               <TableCell>
                 <Chart
@@ -370,7 +370,7 @@ const ProductPerformances = () => {
                 />
               </TableCell>
               <TableCell>
-                <Typography variant="subtitle2">$3.5k</Typography>
+                <Typography variant="subtitle2">₹ 3.5k</Typography>
               </TableCell>
               <TableCell>
                 <Chart
@@ -415,7 +415,7 @@ const ProductPerformances = () => {
                 />
               </TableCell>
               <TableCell>
-                <Typography variant="subtitle2">$3.5k</Typography>
+                <Typography variant="subtitle2">₹ 3.5k</Typography>
               </TableCell>
               <TableCell>
                 <Chart

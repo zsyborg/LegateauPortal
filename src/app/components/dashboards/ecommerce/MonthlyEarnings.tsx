@@ -101,7 +101,7 @@ const MonthlyEarnings = ({ isLoading }: monthlyearningsCardProps) => {
             <>
               <Stack direction="row" spacing={1} alignItems="center" mb={3}>
                 <Typography variant="h3" fontWeight="700">
-                  $6,820
+                  ₹ 6,820
                 </Typography>
                 <Stack direction="row" spacing={1} mt={1} mb={2} alignItems="center">
                   <Avatar sx={{ bgcolor: successlight, width: 20, height: 20 }}>

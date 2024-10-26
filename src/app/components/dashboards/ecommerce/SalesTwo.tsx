@@ -139,7 +139,7 @@ const SalesTwo = ({ isLoading }: SalestwoCardProps) => {
               </Box>
 
               <Typography variant="h4">
-                $16.5k
+                ₹ 16.5k
                 <span>
                   <IconArrowUpRight width={18} color="#39B69A" />
                 </span>

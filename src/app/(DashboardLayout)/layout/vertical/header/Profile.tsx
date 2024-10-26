@@ -71,10 +71,10 @@ const Profile = () => {
         <Avatar src={"/images/profile/user-1.jpg"} alt={"ProfileImg"} sx={{ width: 95, height: 95 }} />
           <Box>
             <Typography variant="subtitle2" color="textPrimary" fontWeight={600}>
-              Mathew Anderson
+              Bhuvaneshwar
             </Typography>
             <Typography variant="subtitle2" color="textSecondary">
-              Designer
+              Director
             </Typography>
             <Typography
               variant="subtitle2"
