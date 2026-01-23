@@ -41,7 +41,7 @@
     "fslightbox-react": "^1.7.6",
     "gray-matter": "^4.0.3",
     "i18next": "^23.5.1",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "moment": "^2.29.4",
     "mongodb": "^6.10.0",
     "mongoose": "^8.7.3",
